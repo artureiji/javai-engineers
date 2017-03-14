@@ -8,7 +8,7 @@ Segundo o hardware que temos a disposição descrito pelo cliente para realizar 
 A equipe do **core** fornecerá as funcionalidades básicas, como a interpretação dos dados vindos do I/O e API do banco, para a equipe de **interface**, que através das diretivas da equipe de **UX**, construirá a interação de cliente com o banco. Todas as equipes serão supervisionadas pela equipe de **segurança**, que participará ativamente do processo de criação e desenvolvimento do software. 
 
 Desta forma, concluímos que o desenvolvimento é possível dado a nossa disponibilidade de colaboradores.
-![Esquema de organização de equipe](/images/esquema.png)
+![Esquema de organização de equipe](./images/esquema.png)
 
 ## Requerimentos
 
